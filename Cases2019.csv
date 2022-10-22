@@ -1,0 +1,709 @@
+﻿Report_number,Date_of_receipt,HC_institution,Sex,Age,Social_group,Residence,Municipality,Workplace,Date_of_diagnosis,Diagn_code,Disease_outcome,Death_date,Cause_of_death,Case_investigator
+2019-1,2019-01-04 14:15,1,F,24,unemployed,Vilnius,Vilniaus m.,,2019-01-02,A15.0,died,2019-02-15,TBC,3
+2019-3,2019-01-09 14:19,1,M,55,unemployed,Vilnius,Vilniaus m.,,2019-01-02,A15.6,,2019-04-12,unknown,3
+2019-4,2019-01-09 14:19,1,M,55,unemployed,Vilnius,Vilniaus m.,,2019-01-02,A15.6,died,2019-04-12,TBC,3
+2019-5,2019-01-10 14:49,1,Female,41,unemployed,Vilnius,Vilniaus m.,,2019-01-02,A15.1,,2019-04-19,TBC,1
+2019-6,2019-01-10 14:49,1,F,41,unemployed,Vilnius,Vilniaus m.,,2019-01-02,A15.1,,2019-05-13,TBC,7
+2019-7,2019-01-11 09:30,1,M,35,unemployed,Šalčininkai,Šalčininkų r.,,2019-01-04,A15.6,,,,1
+2019-8,2019-01-11 09:30,1,M,35,unemployed,Skaidiškės,Vilniaus r.,,2019-01-04,A15.6,,,,3
+2019-9,2019-01-17 13:00,1,F,42,employed,Vilnius,Vilniaus m.,0,2019-01-12,A15.0,died,2020-06-30,TBC,3
+2019-10,2019-01-19 23:00,1,M,19,student,Šventupė,Ukmergės r.,,2019-01-12,A15.0,,,,1
+2019-11,2019-01-19 23:00,1,M,19,student,Šventupė,Ukmergės r.,,2019-01-12,A15.0,,,,11
+2019-12,2019-01-27 11:07,1,F,27,maternity leave,Šalčininkai,Šalčininkų r.,,2019-01-19,A15.0,died,2019-06-27,TBC,7
+2019-100,2019-02-22 15:43,1,F,58,disabled,Trakai,Trakų r.,,2019-02-17,A15.1,,,,7
+2019-101,2019-02-23 13:51,1,M,60,unemployed,Deltuva,Ukmergės r.,,2019-02-17,A15.6,,,,3
+2019-102,2019-02-23 13:51,1,M,60,unemployed,Ukmergė,Ukmergės r.,,2019-02-17,A15.6,,,,1
+2019-103,2019-02-27 14:00,1,M,47,unemployed,Vilnius,Vilniaus m.,,2019-02-24,A15.0,,,,7
+2019-104,2019-02-27 14:00,1,M,47,unemployed,Vilnius,Vilniaus m.,,2019-02-24,A15.0,,,,3
+2019-105,2019-02-27 14:05,2,M,62,unemployed,Vilnius,Vilniaus m.,,2019-02-24,A15.0,,,,3
+2019-106,2019-02-27 14:05,2,M,62,unemployed,Kabalda,Širvintų r.,,2019-02-25,A15.0,,,,3
+2019-107,2019-02-27 14:10,1,Male,28,unemployed,Vilnius,Vilniaus m.,,2019-03-01,A15.0,,,,3
+2019-108,2019-02-27 14:10,1,M,28,unemployed,Dieveniškės,Šalčininkų r.,,2019-03-01,A15.0,,,,1
+2019-109,2019-03-02 09:47,1,M,46,employed,Širvintos,Širvintų r.,0,2019-03-01,A15.1,,,,3
+2019-110,2019-03-02 09:47,1,M,46,employed,Ukmergė,Ukmergės r.,0,2019-03-01,A15.1,,,,11
+2019-111,2019-03-02 09:53,1,M,43,homeless,Vilnius,Vilniaus m.,,2019-03-01,A15.0,,,,1
+2019-112,2019-03-02 09:53,1,M,43,homeless,Vilnius,Vilniaus m.,,2019-03-01,A15.0,,,,1
+2019-113,2019-03-06 09:43,1,M,33,employed,Medžiukai ,Širvintų r.,0,2019-03-02,A15,,,,1
+2019-114,2019-03-06 09:43,1,M,33,employed,Vilnius,Vilniaus m.,0,2019-03-02,A15.0,,,,11
+2019-115,2019-03-08 15:16,1,M,36,unemployed,Širvintos,Širvintų r.,,2019-03-05,A15.0,,,,3
+2019-116,2019-03-08 09:19,1,M,45,unemployed,Dieveniškės,Šalčininkų r.,,2019-03-06,A15.0,,,,11
+2019-117,2019-03-08 09:19,1,M,45,unemployed,Vilnius,Vilniaus m.,,2019-03-06,A15.0,,,,3
+2019-118,2019-03-08 09:38,1,F,27,unemployed,Vilnius,Vilniaus m.,,2019-03-06,A18.2,,,,3
+2019-119,2019-03-14 19:37,1,M,39,unemployed,Vilnius,Vilniaus m.,,2019-03-08,A15.1,,,,1
+2019-120,2019-03-14 19:37,1,M,39,unemployed,Deltuva,Ukmergės r.,,2019-03-08,A15.1,,,,11
+2019-121,2019-03-19 14:28,1,M,59,employed,Strūna,Švenčionių r.,0,2019-03-14,A15.0,,,,11
+2019-122,2019-03-19 14:28,1,M,59,employed,Vilnius,Vilniaus m.,0,2019-03-14,A15.0,,,,1
+2019-123,2019-03-20 10:28,1,M,29,unemployed,Pabradė,Švenčionių r.,,2019-03-14,A19,,,,1
+2019-124,2019-03-20 10:28,1,M,29,unemployed,Vilnius,Vilniaus m.,,2019-03-14,A19,,,,1
+2019-125,2019-03-22 12:34,1,F,39,not specified,Vilnius,Vilniaus m.,,2019-03-16,A15.0,,,,1
+2019-126,2019-03-22 12:34,1,F,39,not specified,Vilnius,Vilniaus m.,,2019-03-16,A15.0,,,,1
+2019-127,2019-03-26 20:00,1,F,11,student,Vilnius,Vilniaus m.,,2019-03-21,A15.1,,,,1
+2019-128,2019-03-26 20:00,1,F,11,student,Vilnius,Vilniaus m.,,2019-03-21,A15.1,,,,3
+2019-129,2019-03-30 11:15,1,M,44,unemployed,Pabradė,Švenčionių r.,,2019-03-27,A15.0,,,,3
+2019-13,2019-02-27 13:56,1,Male,82,pensioner,Vilnius,Vilniaus m.,,2019-02-22,A15.0,died,2019-09-01,tub,1
+2019-130,2019-03-30 11:15,1,M,44,unemployed,Vilnius,Vilniaus m.,,2019-03-27,A15.0,,,,3
+2019-131,2019-04-03 10:15,1,M,28,unemployed,Vilnius,Vilniaus m.,,2019-04-02,A15.0,,,,3
+2019-132,2019-04-03 10:15,1,M,28,unemployed,Vilnius,Vilniaus m.,,2019-04-02,A15.0,,,,13
+2019-133,2019-04-03 10:20,1,M,70,unemployed,Vilnius,Vilniaus m.,,2019-04-02,A15.0,,,,1
+2019-134,2019-04-03 10:20,1,M,70,unemployed,Rudamina ,Vilniaus r.,,2019-04-02,A15,,,,1
+2019-135,2019-04-03 11:23,1,F,29,unemployed,Medžiukai ,Širvintų r.,,2019-04-02,A15.0,,,,3
+2019-136,2019-04-03 11:23,1,F,29,unemployed,Paluknys,Trakų r.,,2019-04-02,A15.0,,,,1
+2019-137,2019-04-05 09:04,1,M,15,student,Vilnius,Vilniaus m.,,2019-04-02,A15.0,,,,1
+2019-138,2019-04-05 09:04,1,M,15,student,Vilnius,Vilniaus m.,,2019-04-02,A15.0,,,,1
+2019-139,2019-04-12 22:30,1,M,41,unemployed,Vepriai ,Ukmergės r.,,2019-04-02,A15.2,,,,1
+2019-14,2019-02-27 13:56,1,M,82,pensioner,Paluknys,Trakų r.,,2019-02-22,A15.0,died,2019-10-01,TBC,1
+2019-140,2019-04-12 22:30,1,M,41,unemployed,Vilnius,Vilniaus m.,,2019-04-02,A15.2,,,,1
+2019-141,2019-04-13 11:41,1,M,41,unemployed,Vilnius,Vilniaus m.,,2019-04-02,A15.0,,,,11
+2019-142,2019-04-13 11:41,1,M,41,unemployed,Vilnius,Vilniaus m.,,2019-04-02,A15.0,,,,1
+2019-143,2019-04-13 11:49,1,M,30,unemployed,Vilnius,Vilniaus m.,,2019-04-06,A15.1,,,,1
+2019-144,2019-04-13 11:49,1,M,30,unemployed,Vilnius,Vilniaus m.,,2019-04-06,A15.1,,,,3
+2019-145,2019-04-18 10:57,1,M,37,unemployed,Vilnius,Vilniaus m.,,2019-04-10,A15.0,,,,13
+2019-146,2019-04-18 10:57,1,M,37,unemployed,Vilnius,Vilniaus m.,,2019-04-12,A15.0,,,,1
+2019-147,2019-04-23 12:54,1,Female,48,unemployed,Vilnius,Vilniaus m.,,2019-04-12,A15.1,,,,3
+2019-148,2019-04-23 12:54,1,F,48,unemployed,Švenčionėliai,Švenčionių r.,,2019-04-12,A15.1,,,,3
+2019-149,2019-04-23 09:57,1,F,47,unemployed,Vilnius,Vilniaus m.,,2019-04-12,A15.0,,,,3
+2019-15,2019-03-08 09:38,1,Female,27,unemployed,Elektrėnai,Elektrėnų,,2019-03-06,A18.2,died,2020-01-20,TBC,3
+2019-150,2019-04-23 09:57,1,F,47,unemployed,Vilnius,Vilniaus m.,,2019-04-12,A15.0,,,,3
+2019-151,2019-04-25 09:32,1,F,79,pensioner,Vilnius,Vilniaus m.,,2019-04-12,A15.0,,,,7
+2019-152,2019-04-25 09:32,1,F,79,pensioner,Trakai,Trakų r.,,2019-04-12,A15.0,,,,3
+2019-153,2019-04-25 09:36,1,M,53,unemployed,Rūdninkai,Šalčininkų r.,,2019-04-17,A15.0,,,,11
+2019-154,2019-04-25 09:36,1,M,53,unemployed,Vepriai ,Ukmergės r.,,2019-04-17,A15.0,,,,1
+2019-155,2019-04-25 09:41,1,F,24,unemployed,Vilnius,Vilniaus m.,,2019-04-20,A15.0,,,,11
+2019-156,2019-04-25 09:41,1,F,24,unemployed,Vilnius,Vilniaus m.,,2019-04-20,A15.0,,,,3
+2019-157,2019-04-25 09:45,1,M,44,disabled,Rudamina ,Vilniaus r.,,2019-04-20,A15.1,,,,1
+2019-158,2019-04-25 09:45,1,M,44,disabled,Vilnius,Vilniaus m.,,2019-04-20,A15.1,,,,11
+2019-159,2019-04-25 09:51,1,M,41,unemployed,Paluknys,Trakų r.,,2019-04-27,A15.1,,,,1
+2019-16,2019-03-08 15:13,1,M,59,unemployed,Elektrėnai,Elektrėnų,,2019-03-05,A15.1,died,2019-05-10,A15.0,1
+2019-160,2019-04-25 09:51,1,M,41,unemployed,Vepriai ,Ukmergės r.,,2019-04-27,A15.1,,,,11
+2019-161,2019-04-27 10:30,1,M,77,pensioner,Vilnius,Vilniaus m.,,2019-05-02,A15.0,,,,3
+2019-162,2019-04-27 10:30,1,M,77,pensioner,Vilnius,Vilniaus m.,,2019-05-02,A15.0,,,,3
+2019-163,2019-05-08 09:26,1,F,40,unemployed,Vilnius,Vilniaus m.,,2019-05-02,A15.0,,,,1
+2019-164,2019-05-08 09:26,1,F,40,unemployed,Rūdninkai,Šalčininkų r.,,2019-05-02,A15.0,,,,1
+2019-165,2019-05-16 10:48,1,M,78,pensioner,Valai,Trakų r.,,2019-05-02,A15.0,,,,1
+2019-166,2019-05-16 10:48,1,M,78,pensioner,Vepriai ,Ukmergės r.,,2019-05-02,A15.0,,,,1
+2019-167,2019-05-18 09:22,1,M,52,unemployed,Rudamina ,Vilniaus r.,,2019-05-02,A15.1,,,,1
+2019-168,2019-05-18 09:22,1,M,52,unemployed,Vilnius,Vilniaus m.,,2019-05-02,A15.1,,,,3
+2019-169,2019-05-25 10:18,1,M,61,pensioner,Vilnius,Vilniaus m.,,2019-05-02,A15.0,,,,7
+2019-17,2019-03-08 15:13,1,M,59,unemployed,Vilnius,Vilniaus m.,,2019-03-05,A15.1,died,2019-05-19,A15.0,1
+2019-170,2019-05-25 10:18,1,M,61,pensioner,Vilnius,Vilniaus m.,,2019-05-02,A15.0,,,,3
+2019-171,2019-05-29 13:53,1,M,76,pensioner,Vilnius,Vilniaus m.,,2019-05-07,A15.0,,,,1
+2019-172,2019-05-29 13:53,1,M,76,pensioner,Vilnius,Vilniaus m.,,2019-05-07,A15.0,,,,1
+2019-173,2019-05-29 13:57,1,M,77,pensioner,Vilnius,Vilniaus m.,,2019-05-07,A15.0,,,,1
+2019-174,2019-05-29 13:57,1,M,77,pensioner,Rudamina ,Vilniaus r.,,2019-05-07,A15.0,,,,3
+2019-175,2019-05-29 14:18,1,F,22,student,Vilnius,Vilniaus m.,,2019-05-07,A15.0,,,,1
+2019-176,2019-05-29 14:18,1,F,22,student,Vilnius,Vilniaus m.,,2019-05-07,A15.0,,,,3
+2019-177,2019-05-29 14:24,1,M,45,unemployed,Rudamina ,Vilniaus r.,,2019-05-10,A15.0,,,,3
+2019-178,2019-05-29 14:24,1,M,45,unemployed,Švenčionėliai,Švenčionių r.,,2019-05-10,A15.0,,,,1
+2019-179,2019-05-29 14:34,1,M,31,unemployed,Vilnius,Vilniaus m.,,2019-05-10,A15.1,,,,3
+2019-18,2019-03-08 15:16,1,M,36,unemployed,Vilnius,Vilniaus m.,,2019-03-05,A15.0,,2019-07-16,TBC,13
+2019-180,2019-05-29 14:34,1,M,31,unemployed,Vilnius,Vilniaus m.,,2019-05-10,A15.1,,,,1
+2019-181,2019-05-29 14:38,1,M,52,employed,Vilnius,Vilniaus m.,0,2019-05-16,A15.0,,,,1
+2019-182,2019-05-29 14:38,1,M,52,employed,Rudamina ,Vilniaus r.,0,2019-05-16,A15.0,,,,1
+2019-183,2019-05-29 14:42,1,F,31,unemployed,Ukmergė,Ukmergės r.,,2019-05-18,A15.0,,,,3
+2019-184,2019-05-29 14:42,1,F,31,unemployed,Vilnius,Vilniaus m.,,2019-05-18,A15.0,,,,1
+2019-185,2019-05-29 14:46,1,M,40,unemployed,Vilnius,Vilniaus m.,,2019-05-20,A15.0,,,,1
+2019-186,2019-05-29 14:46,1,M,40,unemployed,Valai,Trakų r.,,2019-05-20,A15.0,,,,3
+2019-187,2019-05-29 14:56,1,M,48,unemployed,Vilnius,Vilniaus m.,,2019-05-21,A15.0,,,,3
+2019-188,2019-05-29 14:56,1,M,48,unemployed,Valai,Trakų r.,,2019-05-21,A15.0,,,,1
+2019-189,2019-05-29 15:01,1,M,53,disabled,Vilnius,Vilniaus m.,,2019-05-22,A15.1,,,,13
+2019-19,2019-03-19 14:23,1,M,60,unemployed,Vilnius,Vilniaus m.,,2019-03-13,A15.1,died,2019-08-12,TBC,3
+2019-190,2019-05-29 15:01,1,M,53,disabled,Vilnius,Vilniaus m.,,2019-05-22,A15.1,,,,1
+2019-191,2019-05-29 15:04,1,M,43,unemployed,Vilnius,Vilniaus m.,,2019-05-24,A15.1,,,,11
+2019-192,2019-05-29 15:04,1,M,43,unemployed,Vilnius,Vilniaus m.,,2019-05-24,A15.1,,,,1
+2019-193,2019-05-29 15:08,1,M,50,unemployed,Vilnius,Vilniaus m.,,2019-05-24,A15.0,,,,1
+2019-194,2019-05-29 15:08,1,M,50,unemployed,Vilnius,Vilniaus m.,,2019-05-24,A15.0,,,,7
+2019-195,2019-05-29 15:12,1,F,30,maternity leave,Vilnius,Vilniaus m.,,2019-05-24,A15.1,,,,1
+2019-196,2019-05-29 15:12,1,F,30,maternity leave,Vilnius,Vilniaus m.,,2019-05-25,A15.1,,,,3
+2019-197,2019-05-30 09:16,1,M,47,unemployed,Vepriai ,Ukmergės r.,,2019-05-25,A15.0,,,,1
+2019-198,2019-05-30 09:16,1,M,47,unemployed,Dainava,Ukmergės r.,,2019-05-25,A15.0,,,,7
+2019-199,2019-05-30 09:24,1,M,42,unemployed,Rūdninkai,Šalčininkų r.,,2019-06-01,A15.1,,,,13
+2019-20,2019-03-19 14:23,1,M,60,unemployed,Vilnius,Vilniaus m.,,2019-03-13,A15.1,died,2019-04-12,TBC,3
+2019-200,2019-05-30 09:24,1,Male,42,unemployed,Avižieniai ,Vilniaus r.,,2019-06-01,A15.1,,,,11
+2019-201,2019-06-05 22:30,1,F,30,employed,Švenčionys,Švenčionių r.,0,2019-06-01,A15.0,,,,7
+2019-202,2019-06-05 22:30,1,F,30,employed,Vilnius,Vilniaus m.,0,2019-06-01,A15.0,,,,1
+2019-203,2019-06-06 14:35,1,M,53,unemployed,Naujosios Kietaviškės,Elektrėnų,,2019-06-01,A15.0,,,,13
+2019-204,2019-06-06 14:35,1,M,53,unemployed,Avižieniai ,Vilniaus r.,,2019-06-01,A15.0,,,,11
+2019-205,2019-06-06 14:42,1,M,30,unemployed,Vilnius,Vilniaus m.,,2019-06-01,A15.0,,,,7
+2019-206,2019-06-06 14:42,1,M,30,unemployed,Širvintos,Širvintų r.,,2019-06-01,A15.0,,,,1
+2019-207,2019-06-08,1,M,28,unemployed,Vilnius,Vilniaus m.,,2019-06-01,A15.0,,,,3
+2019-208,2019-06-08,1,M,28,unemployed,Vilnius,Vilniaus m.,,2019-06-01,A15.0,,,,13
+2019-209,2019-06-08 10:06,1,M,65,pensioner,Vilnius,Vilniaus m.,,2019-06-05,A15.0,,,,1
+2019-21,2019-03-23 08:54,1,F,36,employed,Elektrėnai,Elektrėnų,2,2019-03-19,A15.0,died,2019-12-01,TBC,3
+2019-210,2019-06-08 10:06,1,M,65,pensioner,Vilnius,Vilniaus m.,,2019-06-05,A15.0,,,,1
+2019-211,2019-06-08 10:11,1,M,43,unemployed,Turgeliai,Šalčininkų r.,,2019-06-06,A15.0,,,,7
+2019-212,2019-06-08 10:11,1,M,43,unemployed,Avižieniai ,Vilniaus r.,,2019-06-06,A15.0,,,,3
+2019-213,2019-06-08 10:19,1,M,58,unemployed,Elektrėnai,Elektrėnų,,2019-06-07,A15.6,,,,1
+2019-214,2019-06-08 10:19,1,M,58,unemployed,Turgeliai,Šalčininkų r.,,2019-06-07,A15.6,,,,1
+2019-215,2019-06-13,1,M,62,pensioner,Vilnius,Vilniaus m.,,2019-06-14,A15.0,,,,3
+2019-216,2019-06-15 01:02,1,M,36,unemployed,Vilnius,Vilniaus m.,,2019-06-14,A15.0,,,,1
+2019-217,2019-06-15 01:02,1,M,36,unemployed,Vilnius,Vilniaus m.,,2019-06-14,A15.0,,,,1
+2019-218,2019-06-22,1,M,43,unemployed,Ukmergė,Ukmergės r.,,2019-06-14,A15.0,,,,3
+2019-219,2019-06-22,1,M,43,unemployed,Vilnius,Vilniaus m.,,2019-06-14,A15.0,,,,1
+2019-220,2019-06-29 10:47,1,M,48,unemployed,Abromiškės,Elektrėnų,,2019-06-15,A15.0,,,,3
+2019-221,2019-06-29 10:47,1,M,48,unemployed,Vilnius,Vilniaus m.,,2019-06-15,A15.0,,,,3
+2019-222,2019-06-29 11:23,1,M,42,unemployed,Vilnius,Vilniaus m.,,2019-06-16,A15.0,,,,1
+2019-223,2019-06-29 11:23,1,M,42,unemployed,Vilnius,Vilniaus m.,,2019-06-16,A15.0,,,,3
+2019-224,2019-06-29 11:28,1,M,39,unemployed,Vilnius,Vilniaus m.,,2019-06-18,A15.1,,,,1
+2019-225,2019-06-29 11:28,1,M,39,unemployed,Vilnius,Vilniaus m.,,2019-06-18,A15.1,,,,1
+2019-226,2019-06-29 11:32,1,M,49,unemployed,Avižieniai ,Vilniaus r.,,2019-06-20,A15.0,,,,3
+2019-227,2019-06-29 11:32,1,M,49,unemployed,Vilnius,Vilniaus m.,,2019-06-20,A15.0,,,,1
+2019-228,2019-06-29 11:36,1,M,47,disabled,Vilnius,Vilniaus m.,,2019-06-20,A18.2,,,,1
+2019-229,2019-06-29 11:36,1,M,47,disabled,Vilnius,Vilniaus m.,,2019-06-20,A18.2,,,,11
+2019-23,2019-04-03 11:26,1,M,25,unemployed,Vilnius,Vilniaus m.,,2019-04-02,A15.0,died,2019-10-10,tuberculosis,3
+2019-230,2019-06-29 11:41,1,M,75,pensioner,Vilnius,Vilniaus m.,,2019-06-20,A18.0,,,,3
+2019-231,2019-06-29 11:41,1,M,75,pensioner,Vilnius,Vilniaus m.,,2019-06-20,A18,,,,3
+2019-232,2019-06-29 11:45,1,F,45,unemployed,Vilnius,Vilniaus m.,,2019-06-22,A15.0,,,,1
+2019-233,2019-06-29 11:45,1,F,45,unemployed,Vilnius,Vilniaus m.,,2019-06-22,A15.0,,,,3
+2019-234,2019-06-29 13:03,1,F,40,employed,Vilnius,Vilniaus m.,1,2019-06-25,A15.1,,,,1
+2019-235,2019-06-29 13:26,1,F,44,unemployed,Vilnius,Vilniaus m.,,2019-06-26,A18.2,,,,11
+2019-236,2019-06-29 13:26,1,F,44,unemployed,Vilnius,Vilniaus m.,,2019-06-26,A18.2,,,,1
+2019-237,2019-06-29 15:16,1,F,49,unemployed,Vilnius,Vilniaus m.,,2019-06-26,A18.2,,,,1
+2019-238,2019-06-29 15:16,1,F,49,unemployed,Vilnius,Vilniaus m.,,2019-06-26,A18.2,,,,1
+2019-239,2019-06-29 15:20,1,F,32,employed,Vilnius,Vilniaus m.,0,2019-06-27,A19,,,,1
+2019-24,2019-04-03 11:26,1,M,25,unemployed,Vilnius,Vilniaus m.,,2019-04-02,A15.0,died,2019-10-10,tuberculosis,3
+2019-240,2019-06-29 15:20,1,F,32,employed,Turgeliai,Šalčininkų r.,0,2019-06-27,A19,,,,1
+2019-241,2019-07-02 12:59,1,F,23,maternity leave,Vilnius,Vilniaus m.,,2019-07-01,A15.2,,,,1
+2019-242,2019-07-02 12:59,1,F,23,maternity leave,Vilnius,Vilniaus m.,,2019-07-01,A15.2,,,,3
+2019-243,2019-07-16 14:02,1,F,79,pensioner,Dainava,Ukmergės r.,,2019-07-01,A15.0,,,,1
+2019-244,2019-07-16 14:02,1,F,79,pensioner,Dainava,Ukmergės r.,,2019-07-01,A15.0,,,,1
+2019-245,2019-07-16 08:12,1,M,65,pensioner,Turgeliai,Šalčininkų r.,,2019-07-04,A15.1,,,,1
+2019-246,2019-07-16 08:12,1,M,65,pensioner,Vilnius,Vilniaus m.,,2019-07-04,A15.1,,,,1
+2019-247,2019-07-16 08:21,1,M,53,homeless,Vosyliukai,Trakų r.,,2019-07-05,A15.0,,,,1
+2019-248,2019-07-17 08:21,1,M,53,homeless,Elektrėnai,Elektrėnų,,2019-07-05,A15.0,,,,1
+2019-249,2019-07-18 14:28,1,F,31,maternity leave,Elektrėnai,Elektrėnų,,2019-07-05,A18.0,,,,1
+2019-250,2019-07-18 14:28,1,F,31,maternity leave,Vilnius,Vilniaus m.,,2019-07-05,A18.0,,,,1
+2019-251,2019-07-18 14:40,1,F,39,homeless,Vilnius,Vilniaus m.,,2019-07-05,A15.1,,,,3
+2019-252,2019-07-18 14:40,1,F,39,homeless,Avižieniai ,Vilniaus r.,,2019-07-05,A15.1,,,,13
+2019-253,2019-07-18 14:45,1,M,42,unemployed,Vilnius,Vilniaus m.,,2019-07-05,A15.0,,,,11
+2019-254,2019-07-18 14:45,1,M,42,unemployed,Elektrėnai,Elektrėnų,,2019-07-05,A15.0,,,,1
+2019-255,2019-07-18 14:49,1,F,0,unorganized,Elektrėnai,Elektrėnų,,2019-07-12,A15.0,,,,3
+2019-256,2019-07-18 14:49,1,F,0,unorganized,Vilnius,Vilniaus m.,,2019-07-12,A15.0,,,,3
+2019-257,2019-07-18 14:54,1,M,41,unemployed,Vilnius,Vilniaus m.,,2019-08-01,A15.0,,,,3
+2019-258,2019-07-18 14:54,1,M,41,unemployed,Vilnius,Vilniaus m.,,2019-08-01,A15.0,,,,1
+2019-259,2019-08-03 12:59,1,M,58,employed,Vilnius,Vilniaus m.,0,2019-08-01,A19,,,,19
+2019-26,2019-04-13 11:54,1,F,40,unemployed,Vilnius,Vilniaus m.,,2019-04-08,A15.1,died,2019-06-01,TBC,1
+2019-260,2019-08-03 12:59,1,M,58,employed,Vilnius,Vilniaus m.,0,2019-08-01,A19,,,,3
+2019-261,2019-08-03 13:02,1,M,56,unemployed,Vilnius,Vilniaus m.,,2019-08-01,A15.0,,,,3
+2019-262,2019-08-03 13:02,1,M,56,unemployed,Dainava,Ukmergės r.,,2019-08-02,A15.0,,,,1
+2019-263,2019-08-08 22:30,1,M,38,unemployed,Vilnius,Vilniaus m.,,2019-08-03,A15.2,,,,11
+2019-264,2019-08-08 22:30,1,M,38,unemployed,Vilnius,Vilniaus m.,,2019-08-03,A15.2,,,,19
+2019-265,2019-08-31 23:30,1,M,76,pensioner,Vilnius,Vilniaus m.,,2019-08-06,A15.1,,,,19
+2019-266,2019-08-31 23:30,1,M,76,pensioner,Vilnius,Vilniaus m.,,2019-08-06,A15.1,,,,3
+2019-267,2019-09-03 19:35,1,M,1,unemployed,Abromiškės,Elektrėnų,,2019-08-06,A15.0,,,,1
+2019-268,2019-09-03 19:35,1,M,1,unorganized,Karkažiškė,Švenčionių r.,,2019-08-06,A15.0,,,,19
+2019-269,2019-09-04 11:13,1,M,18,unemployed,Abromiškės,Elektrėnų,,2019-08-09,A15.1,,,,3
+2019-27,2019-06-13,1,M,62,pensioner,Vilnius,Vilniaus m.,,2019-06-14,A15.0,died,2019-08-24,tbc,3
+2019-270,2019-09-04 11:13,1,M,18,unemployed,Vilnius,Vilniaus m.,,2019-08-09,A15.1,,,,3
+2019-271,2019-09-04 11:18,1,M,51,unemployed,Medžiukai ,Širvintų r.,,2019-08-22,A15.0,,,,3
+2019-272,2019-09-04 11:18,1,M,51,unemployed,Vilnius,Vilniaus m.,,2019-08-22,A15.0,,,,1
+2019-273,2019-09-04 11:22,1,M,36,unemployed,Kareivonys,Elektrėnų,,2019-08-22,A15.0,,,,3
+2019-274,2019-09-04 11:22,1,M,36,unemployed,Vilnius,Vilniaus m.,,2019-08-22,A15.0,,,,11
+2019-275,2019-09-04 11:46,1,F,0,unorganized,Vidiškiai,Ukmergės r.,,2019-08-23,A15.0,,,,1
+2019-276,2019-09-04 11:46,1,F,0,unorganized,Kareivonys,Elektrėnų,,2019-08-23,A15.0,,,,1
+2019-277,2019-09-04 13:54,1,M,63,employed,Elektrėnai,Elektrėnų,0,2019-08-27,A15.1,,,,1
+2019-278,2019-09-04 13:54,1,M,63,employed,Vilnius,Vilniaus m.,0,2019-08-27,A15.1,,,,11
+2019-279,2019-09-04 13:58,1,F,53,unemployed,Vilnius,Vilniaus m.,,2019-09-03,A15.0,,,,3
+2019-28,2019-06-29 13:03,1,F,40,employed,Vilnius,Vilniaus m.,0,2019-06-25,A15.1,died,2020-01-02,TBC,11
+2019-280,2019-09-04 13:58,1,F,53,unemployed,Vilnius,Vilniaus m.,,2019-09-03,A15.0,,,,3
+2019-281,2019-09-04 14:02,1,M,51,unemployed,Vilnius,Vilniaus m.,,2019-09-03,A15.0,,,,3
+2019-282,2019-09-04 14:02,1,M,51,unemployed,Avižieniai ,Vilniaus r.,,2019-09-03,A15.0,,,,1
+2019-283,2019-09-07 09:13,1,F,86,pensioner,Vilnius,Vilniaus m.,,2019-09-03,A15.0,,,,11
+2019-284,2019-09-07 09:13,1,F,86,pensioner,Turgeliai,Šalčininkų r.,,2019-09-03,A15.0,,,,11
+2019-285,2019-09-07 09:21,1,F,88,pensioner,Vievis,Elektrėnų,,2019-09-03,A15.0,,,,1
+2019-286,2019-09-07 09:21,1,F,88,unemployed,Vilnius,Vilniaus m.,,2019-09-03,A15.0,,,,1
+2019-287,2019-09-07 09:25,1,M,61,unemployed,Vilnius,Vilniaus m.,,2019-09-03,A15.0,,,,1
+2019-288,2019-09-08 02:55,1,F,44,unemployed,Vievis,Elektrėnų,,2019-09-03,A15.1,,,,1
+2019-289,2019-09-08 02:55,1,F,44,unemployed,Vilnius,Vilniaus m.,,2019-09-03,A15.1,,,,1
+2019-290,2019-09-10 09:29,1,F,35,employed,Vilnius,Vilniaus m.,0,2019-09-04,A15.1,,,,1
+2019-291,2019-09-10 09:29,1,F,35,employed,Vilnius,Vilniaus m.,0,2019-09-04,A15.1,,,,3
+2019-292,2019-09-11 09:09,2,F,42,employed,Nemėžis ,Vilniaus r.,0,2019-09-06,A15.1,,,,3
+2019-293,2019-09-11 09:09,2,F,42,employed,Vilnius,Vilniaus m.,0,2019-09-06,A15.1,,,,1
+2019-294,2019-09-13 14:16,1,M,41,employed,Kareivonys,Elektrėnų,0,2019-09-10,A15.0,,,,3
+2019-295,2019-09-13 14:16,1,M,41,employed,Ukmergė,Ukmergės r.,0,2019-09-10,A15.0,,,,3
+2019-296,2019-09-13 20:04,1,F,22,employed,Vilnius,Vilniaus m.,1,2019-09-10,A15.1,,,,13
+2019-297,2019-09-13 20:04,1,F,22,employed,Vilnius,Vilniaus m.,0,2019-09-10,A15.1,,,,1
+2019-298,2019-09-18 14:29,1,M,42,unemployed,Vilnius,Vilniaus m.,,2019-09-13,A15.1,,,,1
+2019-299,2019-09-18 14:29,1,M,42,unemployed,Vilnius,Vilniaus m.,,2019-09-13,A15.1,,,,3
+2019-30,2019-09-07 09:16,1,M,29,employed,Vilnius,Vilniaus m.,0,2019-09-03,A15.0,died,2019-11-09,nuo tbc,1
+2019-300,2019-09-19 14:24,1,M,42,unemployed,Vilnius,Vilniaus m.,,2019-09-13,A15.1,,,,1
+2019-301,2019-09-19 14:24,1,M,42,unemployed,Švenčionėliai,Švenčionių r.,,2019-09-13,A15.1,,,,1
+2019-303,2019-09-20 10:25,1,F,37,unemployed,Vilnius,Vilniaus m.,,2019-09-13,A15.0,died,2019-10-04,TBC,1
+2019-304,2019-09-24 09:50,1,F,67,pensioner,Gelvonai,Širvintų r.,,2019-09-14,A15.0,,,,1
+2019-305,2019-09-24 09:50,1,F,67,pensioner,Jašiūnai,Šalčininkų r.,,2019-09-14,A15.0,,,,1
+2019-306,2019-09-24 09:59,1,F,78,pensioner,Vilnius,Vilniaus m.,,2019-09-19,A15.1,,,,11
+2019-307,2019-09-24 09:59,1,F,78,pensioner,Trakai,Trakų r.,,2019-09-19,A15.1,,,,1
+2019-308,2019-09-25 13:07,1,M,44,employed,Trakai,Trakų r.,0,2019-09-20,A15.6,,,,1
+2019-309,2019-09-25 13:07,1,M,44,employed,Vilnius,Vilniaus m.,0,2019-09-20,A15.6,,,,3
+2019-31,2019-09-07 09:25,1,M,61,unemployed,Vilnius,Vilniaus m.,,2019-09-03,A15.0,died,2020-06-12,unknown,13
+2019-310,2019-09-25 09:38,1,M,64,disabled,Vilnius,Vilniaus m.,,2019-09-26,A15.0,,,,1
+2019-311,2019-09-25 09:38,1,M,64,disabled,Jašiūnai,Šalčininkų r.,,2019-09-26,A15.0,,,,3
+2019-312,2019-09-28 19:10,1,M,24,unemployed,Trakai,Trakų r.,,2019-10-01,A15.0,,,,3
+2019-313,2019-09-29 18:10,1,M,24,unemployed,Vilnius,Vilniaus m.,,2019-10-01,A15.0,,,,3
+2019-314,2019-10-01 11:33,1,F,50,unemployed,Trakai,Trakų r.,,2019-10-01,A15.0,,,,3
+2019-315,2019-10-01 11:33,1,F,50,unemployed,Trakai,Trakų r.,,2019-10-01,A15.0,,,,3
+2019-316,2019-10-01 11:48,1,M,56,employed,Vilnius,Vilniaus m.,0,2019-10-01,A15.0,,,,19
+2019-317,2019-10-01 11:48,1,M,56,employed,Vidiškiai,Ukmergės r.,0,2019-10-01,A15.0,,,,3
+2019-318,2019-10-03 13:11,1,F,53,employed,Jašiūnai,Šalčininkų r.,2,2019-10-01,A15.0,,,,11
+2019-319,2019-10-03 13:11,1,Female,53,employed,Ukmergė,Ukmergės r.,0,2019-10-01,A15.0,,,,1
+2019-32,2019-10-12 09:36,1,M,59,pensioner,Vilnius,Vilniaus m.,,2019-10-01,A15.0,died,2020-02-17,not tbc,11
+2019-320,2019-10-11 08:54,1,M,46,unemployed,Vilnius,Vilniaus m.,,2019-10-01,A15.0,,,,3
+2019-321,2019-10-11 08:54,1,M,46,unemployed,Trakai,Trakų r.,,2019-10-01,A15.0,,,,1
+2019-322,2019-10-12 09:36,1,M,59,pensioner,Vilnius,Vilniaus m.,,2019-10-01,A15.0,,,,11
+2019-323,2019-10-12 09:39,1,F,29,unemployed,Vilnius,Vilniaus m.,,2019-10-03,A15.0,,,,1
+2019-324,2019-10-12 09:39,1,F,29,unemployed,Vilnius,Vilniaus m.,,2019-10-03,A15.0,,,,1
+2019-325,2019-10-12 09:43,1,F,57,employed,Vilnius,Vilniaus m.,0,2019-10-04,A15.0,,,,11
+2019-326,2019-10-12 09:43,1,F,57,employed,Vilnius,Vilniaus m.,0,2019-10-04,A15.0,,,,3
+2019-327,2019-10-15 09:54,1,M,56,unemployed,Vilnius,Vilniaus m.,,2019-10-04,A15.1,,,,3
+2019-328,2019-10-15 09:54,1,M,56,unemployed,Vilnius,Vilniaus m.,,2019-10-04,A15.1,,,,1
+2019-329,2019-10-16 19:40,2,M,41,unemployed,Vidiškiai,Ukmergės r.,,2019-10-04,A19,,,,1
+2019-33,2019-12-12 14:27,1,M,56,unemployed,Vilnius,Vilniaus m.,,2019-12-01,A15.0,,,,1
+2019-330,2019-10-16 19:40,2,M,41,unemployed,Nemėžis ,Vilniaus r.,,2019-10-04,A19,,,,1
+2019-331,2019-10-16 19:40,1,M,59,employed,Vilnius,Vilniaus m.,0,2019-10-05,A15.0,,,,1
+2019-332,2019-10-16 19:40,1,Male,59,employed,Vilnius,Vilniaus m.,0,2019-10-05,A15.0,,,,3
+2019-333,2019-10-16 19:40,1,F,42,maternity leave,Trakai,Trakų r.,,2019-10-08,A15.1,,,,19
+2019-334,2019-10-16 19:40,1,F,42,maternity leave,Vidiškiai,Ukmergės r.,,2019-10-08,A15.1,,,,1
+2019-335,2019-10-16 09:28,1,M,50,unemployed,Ukmergė,Ukmergės r.,,2019-10-08,A15.0,,,,3
+2019-336,2019-10-16 09:28,1,M,50,unemployed,Vilnius,Vilniaus m.,,2019-10-08,A15,,,,1
+2019-337,2019-10-16 09:32,1,M,58,unemployed,Vilnius,Vilniaus m.,,2019-10-08,A15.0,,,,1
+2019-338,2019-10-16 09:32,1,M,58,unemployed,Vilnius,Vilniaus m.,,2019-10-09,A15.0,,,,1
+2019-339,2019-10-16 09:48,1,M,41,unemployed,Musninkai,Širvintų r.,,2019-10-10,A15.0,,,,3
+2019-34,2019-12-12 14:27,1,M,56,unemployed,Semeliškės,Elektrėnų,,2019-12-01,A15.0,,,,1
+2019-340,2019-10-16 09:48,1,M,41,unemployed,Vilnius,Vilniaus m.,,2019-10-10,A15.0,,,,3
+2019-341,2019-10-16 09:59,1,M,38,unemployed,Jašiūnai,Šalčininkų r.,,2019-10-10,A19,,,,3
+2019-342,2019-10-16 09:59,1,M,38,unemployed,Širvintos,Širvintų r.,,2019-10-10,A19,,,,1
+2019-343,2019-10-18 10:01,1,F,75,pensioner,Vilnius,Vilniaus m.,,2019-10-10,A15.0,,,,3
+2019-344,2019-10-18 10:01,1,F,75,pensioner,Vilnius,Vilniaus m.,,2019-10-10,A15.0,,,,13
+2019-345,2019-10-18 09:37,1,M,44,not specified,Vilnius,Vilniaus m.,,2019-10-12,A15.0,,,,1
+2019-346,2019-10-18 09:37,1,M,44,not specified,Bartkuškis ,Širvintų r.,,2019-10-12,A15.0,,,,1
+2019-347,2019-10-23 13:26,1,M,42,employed,Vilnius,Vilniaus m.,0,2019-10-12,A15.0,,,,1
+2019-348,2019-10-23 13:26,1,M,42,employed,Širvintos,Širvintų r.,0,2019-10-12,A15.0,,,,3
+2019-349,2019-10-23 13:40,1,F,40,unemployed,Zavišonys,Šalčininkų r.,,2019-10-15,A15.0,,,,1
+2019-35,2019-12-12 14:33,1,M,40,employed,Trūdai,Švenčionių r.,0,2019-12-01,A15.0,,,,1
+2019-350,2019-10-23 13:40,1,F,40,unemployed,Vilnius,Vilniaus m.,,2019-10-15,A15.0,,,,3
+2019-351,2019-10-23 13:45,1,M,62,unemployed,Vilnius,Vilniaus m.,,2019-10-16,A15.0,,,,3
+2019-352,2019-10-23 13:45,1,M,62,unemployed,Vilnius,Vilniaus m.,,2019-10-16,A15.0,,,,1
+2019-353,2019-10-23 09:54,1,M,63,employed,Jasiuliškis,Ukmergės r.,0,2019-10-17,A15.0,,,,13
+2019-354,2019-10-23 09:54,1,M,63,employed,Svirkos,Švenčionių r.,0,2019-10-17,A15.0,,,,3
+2019-355,2019-10-26 20:19,1,M,40,unemployed,Vilnius,Vilniaus m.,,2019-10-18,A15.0,,,,1
+2019-356,2019-10-26 20:19,1,M,40,unemployed,Švenčionys,Švenčionių r.,,2019-10-18,A15.0,,,,11
+2019-357,2019-10-29 22:00,1,F,65,pensioner,Vilnius,Vilniaus m.,,2019-10-18,A15.0,,,,1
+2019-358,2019-10-29 22:00,1,F,65,pensioner,Vilnius,Vilniaus m.,,2019-10-18,A15.0,,,,1
+2019-359,2019-10-29 06:50,1,M,48,unemployed,Vilnius,Vilniaus m.,,2019-10-22,A15.0,,,,19
+2019-36,2019-12-12 14:33,1,M,40,employed,Semeliškės,Elektrėnų,0,2019-12-01,A15.0,,,,1
+2019-360,2019-10-29 07:50,1,M,48,unemployed,Nemėžis ,Vilniaus r.,,2019-10-22,A15.0,,,,3
+2019-361,2019-10-29 07:53,1,M,51,unemployed,Vilnius,Vilniaus m.,,2019-10-22,A15.2,,,,1
+2019-362,2019-10-29 07:53,1,M,51,unemployed,Švenčionys,Švenčionių r.,,2019-10-22,A15.2,,,,19
+2019-363,2019-10-29 07:57,1,M,39,employed,Vilnius,Vilniaus m.,0,2019-10-22,A15.0,,,,13
+2019-364,2019-10-29 07:57,1,M,39,employed,Vilnius,Vilniaus m.,0,2019-10-22,A15.0,,,,3
+2019-365,2019-10-29 08:01,1,M,43,unemployed,Vilnius,Vilniaus m.,,2019-10-23,A15.0,,,,11
+2019-366,2019-10-29 08:01,1,M,43,unemployed,Vilnius,Vilniaus m.,,2019-10-23,A15.0,,,,19
+2019-367,2019-10-29 08:05,1,M,52,unemployed,Nemėžis ,Vilniaus r.,,2019-10-23,A15.0,,,,1
+2019-368,2019-10-29 08:05,1,M,52,unemployed,Musninkai,Širvintų r.,,2019-10-23,A15.0,,,,13
+2019-369,2019-10-29 08:09,1,F,47,unemployed,Vosyliukai,Trakų r.,,2019-10-23,A15.0,,,,11
+2019-37,2019-01-09 14:41,1,M,55,employed,Vilnius,Vilniaus m.,0,2019-01-02,A15.1,,,other diseases,19
+2019-370,2019-10-29 08:09,1,F,47,unemployed,Vilnius,Vilniaus m.,,2019-10-23,A15.0,,,,1
+2019-371,2019-10-29 08:15,1,F,45,employed,Vilnius,Vilniaus m.,0,2019-10-23,A15.1,,,,3
+2019-372,2019-10-29 08:15,1,F,45,employed,Jasiuliškis,Ukmergės r.,1,2019-10-23,A15.1,,,,13
+2019-373,2019-11-02 12:00,1,M,56,unemployed,Vilnius,Vilniaus m.,,2019-10-24,A15.1,,,,1
+2019-374,2019-11-02 12:00,1,M,56,unemployed,Vilnius,Vilniaus m.,,2019-10-24,A15.1,,,,3
+2019-375,2019-11-02 08:21,1,M,48,unemployed,Vilnius,Vilniaus m.,,2019-11-01,A15.5,,,,1
+2019-376,2019-11-02 08:21,1,M,48,unemployed,Vilnius,Vilniaus m.,,2019-11-01,A15.5,,,,19
+2019-377,2019-11-02 08:26,1,M,60,unemployed,Vilnius,Vilniaus m.,,2019-11-01,A15.0,,,,3
+2019-378,2019-11-02 08:26,1,M,60,unemployed,Vilnius,Vilniaus m.,,2019-11-01,A15.0,,,,1
+2019-379,2019-11-06 12:10,1,F,66,pensioner,Vilnius,Vilniaus m.,,2019-11-02,A15.0,,,,1
+2019-38,2019-01-10 14:41,1,M,55,employed,Kabalda,Širvintų r.,0,2019-01-02,A15.1,,,other diseases,3
+2019-380,2019-11-06 12:10,1,F,66,pensioner,Vilnius,Vilniaus m.,,2019-11-02,A15.0,,,,1
+2019-381,2019-11-08 10:06,1,M,53,unemployed,Švenčionys,Švenčionių r.,,2019-11-02,A15.0,,,,1
+2019-382,2019-11-08 10:06,1,M,53,unemployed,Vilnius,Vilniaus m.,,2019-11-02,A15.0,,,,3
+2019-383,2019-11-08 10:15,1,M,31,employed,Vilnius,Vilniaus m.,0,2019-11-05,A15.0,,,,1
+2019-384,2019-11-08 10:15,1,M,31,employed,Vilnius,Vilniaus m.,0,2019-11-05,A15.0,,,,3
+2019-385,2019-11-08 10:32,1,M,75,pensioner,Trakai,Trakų r.,,2019-11-05,A15.0,,,,3
+2019-386,2019-11-08 10:32,1,M,75,pensioner,Zavišonys,Šalčininkų r.,,2019-11-05,A15.0,,,,1
+2019-387,2019-11-13 08:41,1,F,85,pensioner,Jasiuliškis,Ukmergės r.,,2019-11-06,A15.0,,,,3
+2019-388,2019-11-13 08:41,1,F,85,pensioner,Vilnius,Vilniaus m.,,2019-11-06,A15.0,,,,1
+2019-389,2019-11-14 19:30,1,F,38,unemployed,Vilnius,Vilniaus m.,,2019-11-08,A15.0,,,,1
+2019-39,2019-01-11 03:31,1,M,69,pensioner,Vilnius,Vilniaus m.,,2019-01-03,A15.0,,,tuberculosis,3
+2019-390,2019-11-14 19:30,1,F,38,unemployed,Nemėžis ,Vilniaus r.,,2019-11-08,A15.0,,,,1
+2019-391,2019-11-15 08:16,1,M,60,disabled,Vilnius,Vilniaus m.,,2019-11-08,A15.0,,,,1
+2019-392,2019-11-15 08:16,1,M,60,disabled,Senieji Trakai,Trakų r.,,2019-11-08,A15.0,,,,11
+2019-393,2019-11-16 08:42,1,M,48,unemployed,Taujėnai ,Ukmergės r.,,2019-11-08,A15.0,,,,3
+2019-394,2019-11-16 08:42,1,M,48,unemployed,Vilnius,Vilniaus m.,,2019-11-08,A15.0,,,,3
+2019-395,2019-11-16 09:02,1,M,0,unorganized,Vilnius,Vilniaus m.,,2019-11-09,A15.0,,,,3
+2019-396,2019-11-16 09:02,1,M,0,unorganized,Nemėžis ,Vilniaus r.,,2019-11-09,A15.0,,,,1
+2019-397,2019-11-20 08:36,1,F,12,student,Zavišonys,Šalčininkų r.,,2019-11-13,A15.0,,,,3
+2019-398,2019-11-20 08:36,1,F,12,student,Senieji Trakai,Trakų r.,,2019-11-13,A15.0,,,,1
+2019-399,2019-11-21 08:37,1,M,46,disabled,Taujėnai ,Ukmergės r.,,2019-11-14,A15.0,,,,11
+2019-40,2019-01-11 03:31,1,M,69,pensioner,Semeliškės,Elektrėnų,,2019-01-03,A15.0,,,tuberculosis,1
+2019-400,2019-11-21 08:37,1,M,46,disabled,Riešė,Vilniaus r.,,2019-11-14,A15.0,,,,1
+2019-401,2019-11-21 08:53,1,F,32,unemployed,Vilnius,Vilniaus m.,,2019-11-14,A15.0,,,,1
+2019-402,2019-11-21 08:53,1,F,32,unemployed,Vilnius,Vilniaus m.,,2019-11-14,A15.0,,,,1
+2019-403,2019-11-21 09:01,1,M,29,unemployed,Vilnius,Vilniaus m.,,2019-11-14,A15.1,,,,3
+2019-404,2019-11-21 09:01,1,M,29,unemployed,Vilnius,Vilniaus m.,,2019-11-14,A15.1,,,,1
+2019-405,2019-11-22 09:10,1,F,76,student,Vilnius,Vilniaus m.,,2019-11-16,A18,,,,1
+2019-406,2019-11-22 09:10,1,F,76,pensioner,Vilnius,Vilniaus m.,,2019-11-16,A18.0,,,,3
+2019-407,2019-11-23 13:20,1,F,44,employed,Vilnius,Vilniaus m.,0,2019-11-16,A15.0,,,,1
+2019-408,2019-11-23 13:20,1,F,44,employed,Vilnius,Vilniaus m.,0,2019-11-16,A15.0,,,,1
+2019-409,2019-11-26 13:24,1,M,60,unemployed,Vilnius,Vilniaus m.,,2019-11-21,A15.1,,,,1
+2019-41,2019-01-12 09:46,1,F,54,disabled,Vilnius,Vilniaus m.,,2019-01-04,A15.1,,,nuo tbc,1
+2019-410,2019-11-26 13:24,1,M,60,unemployed,Riešė,Vilniaus r.,,2019-11-21,A15.1,,,,1
+2019-411,2019-11-28 13:29,1,M,26,employed,Švenčionys,Švenčionių r.,0,2019-11-22,A15.0,,,,1
+2019-412,2019-11-28 13:29,1,M,26,employed,Vilnius,Vilniaus m.,0,2019-11-22,A15.0,,,,1
+2019-413,2019-11-28 13:36,1,M,68,pensioner,Vilnius,Vilniaus m.,,2019-11-23,A15.0,,,,1
+2019-414,2019-11-28 13:36,1,M,68,pensioner,Vilnius,Vilniaus m.,,2019-11-23,A15.0,,,,3
+2019-415,2019-11-28 08:09,1,M,24,employed,Riešė,Vilniaus r.,0,2019-11-26,A15.0,,,,13
+2019-416,2019-11-28 08:09,1,M,24,employed,Ukmergė,Ukmergės r.,2,2019-11-26,A15.0,,,,11
+2019-417,2019-11-28 08:14,1,F,50,unemployed,Vilnius,Vilniaus m.,,2019-11-26,A15.1,,,,1
+2019-418,2019-11-28 08:14,1,F,50,unemployed,Vilnius,Vilniaus m.,,2019-11-26,A15.1,,,,3
+2019-419,2019-11-29 11:30,1,M,48,unemployed,Senieji Trakai,Trakų r.,,2019-11-27,A15.1,,,,3
+2019-42,2019-01-12 09:46,1,F,54,disabled,Šventupė,Ukmergės r.,,2019-01-04,A15.1,,,not TBC,3
+2019-420,2019-11-29 11:30,1,M,48,unemployed,Vilnius,Vilniaus m.,,2019-11-27,A15.1,,,,1
+2019-421,2019-12-03 10:07,1,M,22,employed,Onuškis,Trakų r.,0,2019-12-01,A15.0,,,,7
+2019-422,2019-12-03 10:07,1,M,22,employed,Vilnius,Vilniaus m.,0,2019-12-01,A15.0,,,,1
+2019-423,2019-12-03 14:25,1,M,45,pensioner,Vilnius,Vilniaus m.,,2019-12-01,A15.0,,,,3
+2019-424,2019-12-03 14:25,1,M,45,pensioner,Vilnius,Vilniaus m.,,2019-12-01,A15.0,,,,3
+2019-425,2019-12-03 20:00,1,M,53,unemployed,Vilnius,Vilniaus m.,,2019-12-01,A15.0,,,,1
+2019-426,2019-12-03 20:00,1,M,53,unemployed,Vilnius,Vilniaus m.,,2019-12-01,A15.0,,,,11
+2019-427,2019-12-05 09:54,1,F,32,employed,Vilnius,Vilniaus m.,0,2019-12-01,A15.0,,,,7
+2019-428,2019-12-05 09:54,1,F,32,employed,Vilnius,Vilniaus m.,0,2019-12-01,A15.0,,,,7
+2019-429,2019-12-10 08:35,1,M,46,employed,Vilnius,Vilniaus m.,0,2019-12-01,A15.0,,,,3
+2019-43,2019-01-12 09:55,1,F,33,employed,Naujosios Kietaviškės,Elektrėnų,1,2019-01-04,A15.0,,,not TBC,1
+2019-430,2019-12-10 08:35,1,M,46,employed,Taujėnai ,Ukmergės r.,0,2019-12-01,A15.0,,,,7
+2019-431,2019-12-10 08:39,1,F,47,disabled,Taujėnai ,Ukmergės r.,,2019-12-01,A15.1,,,,3
+2019-432,2019-12-10 08:39,1,F,47,disabled,Kalesninkai,Šalčininkų r.,,2019-12-01,A15.1,,,,3
+2019-433,2019-12-12 14:23,1,M,56,employed,Riešė,Vilniaus r.,0,2019-12-01,A15.0,,,,3
+2019-434,2019-12-12 14:23,1,M,56,employed,Maišiagala,Vilniaus r.,0,2019-12-01,A15.0,,,,3
+2019-435,2019-12-19 00:10,1,M,43,homeless,Vilnius,Vilniaus m.,,2019-12-01,A15.1,,,,1
+2019-436,2019-12-19 00:10,1,M,43,homeless,Geibonys ,Elektrėnų,,2019-12-01,A15.1,,,,3
+2019-437,2019-12-19 00:50,1,F,34,unemployed,Maišiagala,Vilniaus r.,,2019-12-01,A15.0,,,,11
+2019-438,2019-12-19 00:50,1,F,34,unemployed,Vilnius,Vilniaus m.,,2019-12-01,A15.0,,,,1
+2019-439,2019-12-19 00:54,1,M,44,employed,Maišiagala,Vilniaus r.,0,2019-12-03,A15.1,,,,1
+2019-44,2019-01-12 09:55,1,F,33,employed,Elektrėnai,Elektrėnų,0,2019-01-04,A15.0,,,TBC,1
+2019-440,2019-12-19 00:54,1,M,44,employed,Vilnius,Vilniaus m.,0,2019-12-03,A15.1,,,,11
+2019-441,2019-12-19 00:57,1,M,31,unemployed,Vilnius,Vilniaus m.,,2019-12-03,A15.0,,,,3
+2019-442,2019-12-19 00:57,1,M,31,unemployed,Vilnius,Vilniaus m.,,2019-12-03,A15.0,,,,11
+2019-443,2019-12-19 10:29,1,F,56,employed,Vilnius,Vilniaus m.,0,2019-12-03,A15.0,,,,3
+2019-444,2019-12-19 10:29,1,F,56,employed,Kalesninkai,Šalčininkų r.,0,2019-12-03,A15.0,,,,3
+2019-445,2019-12-20 21:36,1,M,51,unemployed,Vilnius,Vilniaus m.,,2019-12-03,A15.1,,,,1
+2019-446,2019-12-20 21:36,1,M,51,unemployed,Vievis,Elektrėnų,,2019-12-03,A15.1,,,,11
+2019-447,2019-12-21 08:40,1,M,32,employed,Kalesninkai,Šalčininkų r.,0,2019-12-03,A15.1,,,,11
+2019-448,2019-12-21 08:40,1,M,32,employed,Vilnius,Vilniaus m.,0,2019-12-03,A15.1,,,,1
+2019-449,2019-12-21 08:48,1,F,29,employed,Vilnius,Vilniaus m.,0,2019-12-03,A15.0,,,,1
+2019-45,2019-01-13 15:02,1,Female,28,unemployed,Vilnius,Vilniaus m.,,2019-01-05,A15.1,,,not tbc,1
+2019-450,2019-12-21 08:48,1,F,29,employed,Vilnius,Vilniaus m.,0,2019-12-03,A15.0,,,,1
+2019-451,2019-12-21 08:52,1,M,38,employed,Ukmergė,Ukmergės r.,2,2019-12-06,A15.0,,,,1
+2019-452,2019-12-21 08:52,1,M,38,employed,Vilnius,Vilniaus m.,0,2019-12-06,A15.0,,,,1
+2019-453,2019-12-28 09:24,1,M,65,disabled,Pastrėvys ,Elektrėnų,,2019-12-11,A15.1,,,,3
+2019-454,2019-12-28 09:24,1,M,65,disabled,Vilnius,Vilniaus m.,,2019-12-11,A15.1,,,,3
+2019-455,2019-12-31 13:21,1,M,22,unemployed,Vilnius,Vilniaus m.,,2019-12-11,A15.1,,,,1
+2019-456,2019-12-31 13:21,1,M,22,unemployed,Vilnius,Vilniaus m.,,2019-12-11,A15.1,,,,3
+2019-457,2019-12-31 13:26,1,F,25,unemployed,Vilnius,Vilniaus m.,,2019-12-18,A15.0,,,,3
+2019-458,2019-12-31 13:26,1,F,25,unemployed,Vilnius,Vilniaus m.,,2019-12-18,A15.0,,,,13
+2019-459,2019-12-31 08:44,1,F,38,maternity leave,Vilnius,Vilniaus m.,,2019-12-19,A15.0,,,,1
+2019-46,2019-01-13 15:02,1,F,28,unemployed,Vilnius,Vilniaus m.,,2019-01-05,A15.1,,,TBC,1
+2019-460,2019-12-31 08:44,1,F,38,maternity leave,Vilnius,Vilniaus m.,,2019-12-19,A15.0,,,,3
+2019-461,2019-12-31 08:55,1,M,48,unemployed,Vilnius,Vilniaus m.,,2019-12-20,A15.1,,,,1
+2019-462,2019-12-31 08:55,1,M,48,unemployed,Vilnius,Vilniaus m.,,2019-12-20,A15.1,,,,1
+2019-463,2020-01-03 14:20,1,Male,74,pensioner,Vilnius,Vilniaus m.,,2019-12-31,A15.0,,,,1
+2019-464,2020-01-03 14:20,1,M,74,pensioner,Vilnius,Vilniaus m.,,2019-12-31,A15.0,,,,1
+2019-465,2020-01-03 08:18,1,F,63,pensioner,Vilnius,Vilniaus m.,,2019-12-31,A15.0,,,,1
+2019-466,2020-01-03 08:18,1,F,63,pensioner,Vilnius,Vilniaus m.,,2019-12-31,A15.0,,,,1
+2019-47,2019-01-16 09:36,1,M,44,unemployed,Skaidiškės,Vilniaus r.,,2019-01-10,A15.1,,,TBC,11
+2019-48,2019-01-16 09:36,1,M,44,unemployed,Vilnius,Vilniaus m.,,2019-01-10,A15.1,,,A15.0,1
+2019-49,2019-01-16 09:41,1,M,56,unemployed,Ukmergė,Ukmergės r.,,2019-01-11,A15.0,,,A15.0,1
+2019-50,2019-01-16 09:41,1,M,56,unemployed,Vilnius,Vilniaus m.,,2019-01-11,A15.0,,,TBC,3
+2019-51,2019-01-17 13:00,1,F,42,employed,Šalčininkai,Šalčininkų r.,0,2019-01-12,A15.0,,,TBC,13
+2019-52,2019-01-19 13:36,1,F,54,unemployed,Elektrėnai,Elektrėnų,,2019-01-12,A15.0,,,TBC,1
+2019-53,2019-01-19 13:36,1,F,54,unemployed,Vilnius,Vilniaus m.,,2019-01-12,A15.0,,,TBC,3
+2019-54,2019-01-20 13:21,1,M,52,unemployed,Skaidiškės,Vilniaus r.,,2019-01-13,A15.0,,,TBC,3
+2019-55,2019-01-20 13:21,1,M,52,unemployed,Elektrėnai,Elektrėnų,,2019-01-13,A15.0,,,TBC,3
+2019-56,2019-01-20 13:24,1,F,70,pensioner,Vilnius,Vilniaus m.,,2019-01-13,A15.0,,,TBC,3
+2019-57,2019-01-20 13:24,1,F,70,pensioner,Vilnius,Vilniaus m.,,2019-01-13,A15.0,,,TBC,3
+2019-58,2019-01-20 13:29,1,M,53,unemployed,Vilnius,Vilniaus m.,,2019-01-16,A15.6,,,TBC,7
+2019-59,2019-01-20 13:29,1,M,53,unemployed,Skaidiškės,Vilniaus r.,,2019-01-16,A15.6,,,TBC,3
+2019-60,2019-01-25 10:16,1,M,63,pensioner,Vilnius,Vilniaus m.,,2019-01-17,A18.0,,,TBC,11
+2019-61,2019-01-25 10:16,1,M,63,pensioner,Naujosios Kietaviškės,Elektrėnų,,2019-01-17,A18.0,,,TBC,1
+2019-62,2019-01-25 09:50,1,M,44,unemployed,Ukmergė,Ukmergės r.,,2019-01-19,A15.0,,,,11
+2019-63,2019-01-25 09:50,1,M,44,unemployed,Vilnius,Vilniaus m.,,2019-01-19,A15.0,,,,3
+2019-64,2019-01-27 11:07,1,F,27,maternity leave,Vilnius,Vilniaus m.,,2019-01-19,A15.0,,,,1
+2019-65,2019-01-27 11:14,1,F,46,employed,Vilnius,Vilniaus m.,0,2019-01-20,A15.0,,,,11
+2019-66,2019-01-27 11:14,1,F,46,employed,Vilnius,Vilniaus m.,0,2019-01-20,A15.0,,,,1
+2019-67,2019-01-27 11:19,1,M,30,employed,Vilnius,Vilniaus m.,0,2019-01-20,A15.0,,,,1
+2019-68,2019-01-27 11:19,1,M,30,employed,Pabradė,Švenčionių r.,0,2019-01-20,A15.0,,,,11
+2019-69,2019-01-27 09:56,1,F,50,employed,Vilnius,Vilniaus m.,0,2019-01-23,A15.0,,,,3
+2019-70,2019-01-29 09:56,1,F,50,employed,Vilnius,Vilniaus m.,0,2019-01-23,A15.0,,,,3
+2019-71,2019-01-30 10:57,1,M,22,unemployed,Kabalda,Širvintų r.,,2019-01-25,A15.0,,,,1
+2019-72,2019-01-30 10:57,1,M,22,unemployed,Eišiškės,Šalčininkų r.,,2019-01-25,A15.0,,,,1
+2019-73,2019-01-30 15:17,1,M,30,unemployed,Skaidiškės,Vilniaus r.,,2019-01-26,A15.0,,,,1
+2019-74,2019-01-30 15:17,1,M,30,unemployed,Lentvaris,Trakų r.,,2019-01-26,A15.0,,,,1
+2019-75,2019-01-31 22:30,1,M,42,unemployed,Lentvaris,Trakų r.,,2019-01-27,A15.0,,,,1
+2019-76,2019-01-31 22:30,1,M,42,unemployed,Skaidiškės,Vilniaus r.,,2019-01-27,A15.0,,,,3
+2019-77,2019-02-01 09:21,1,M,43,unemployed,Vilnius,Vilniaus m.,,2019-02-01,A15.0,,,,7
+2019-78,2019-02-01 09:21,1,M,43,unemployed,Baltoji Vokė,Šalčininkų r.,,2019-02-01,A15.0,,,,1
+2019-79,2019-02-01 09:26,1,M,46,employed,Lentvaris,Trakų r.,0,2019-02-01,A15.0,,,,3
+2019-80,2019-02-01 09:26,1,M,46,employed,Vilnius,Vilniaus m.,0,2019-02-01,A15.0,,,,1
+2019-81,2019-02-02 14:49,1,F,28,unemployed,Rūdiškės,Trakų r.,,2019-02-01,A15.0,,,,1
+2019-82,2019-02-02 14:49,1,F,28,unemployed,Rūdiškės,Trakų r.,,2019-02-01,A15.0,,,,1
+2019-83,2019-02-02 14:53,1,M,32,unemployed,Vilnius,Vilniaus m.,,2019-02-01,A15.0,,,,3
+2019-84,2019-02-02 14:53,1,M,32,unemployed,Deltuva,Ukmergės r.,,2019-02-01,A15.0,,,,1
+2019-85,2019-02-07 09:30,1,M,33,unemployed,Dieveniškės,Šalčininkų r.,,2019-02-01,A15.6,,,,3
+2019-86,2019-02-07 09:30,1,M,33,unemployed,Ukmergė,Ukmergės r.,,2019-02-01,A15.6,,,,3
+2019-87,2019-02-07 09:37,1,M,21,unemployed,Vilnius,Vilniaus m.,,2019-02-06,A15.0,,,,1
+2019-88,2019-02-07 09:37,1,M,21,unemployed,Rūdiškės,Trakų r.,,2019-02-06,A15.0,,,,3
+2019-89,2019-02-14 14:42,1,F,41,unemployed,Vilnius,Vilniaus m.,,2019-02-06,A15.0,,,,13
+2019-90,2019-02-14 14:42,1,Female,41,unemployed,Vilnius,Vilniaus m.,,2019-02-06,A15.0,,,,1
+2019-91,2019-02-14 14:47,1,F,63,pensioner,Vilnius,Vilniaus m.,,2019-02-10,A15.0,,,,1
+2019-92,2019-02-14 14:47,1,F,63,pensioner,Vilnius,Vilniaus m.,,2019-02-10,A15.0,,,,1
+2019-93,2019-02-14 09:29,1,M,45,employed,Vilnius,Vilniaus m.,0,2019-02-10,A15,,,,3
+2019-94,2019-02-14 09:29,1,M,45,employed,Vilnius,Vilniaus m.,0,2019-02-10,A15.0,,,,1
+2019-95,2019-02-14 09:33,1,M,27,employed,Vilnius,Vilniaus m.,0,2019-02-13,A15.0,,,,1
+2019-96,2019-02-15 09:33,1,M,27,employed,Deltuva,Ukmergės r.,0,2019-02-13,A15.0,,,,3
+2019-97,2019-02-17 13:45,1,M,45,unemployed,Skaidiškės,Vilniaus r.,,2019-02-17,A15.0,,,,3
+2019-98,2019-02-17 13:45,1,M,45,unemployed,Vilnius,Vilniaus m.,,2019-02-17,A15.0,,,,1
+2019-99,2019-02-22 15:43,1,F,58,disabled,Vilnius,Vilniaus m.,,2019-02-17,A15.1,,,,13
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

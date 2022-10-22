@@ -1,0 +1,38 @@
+﻿ICD_10,Diagnosis,Category
+A15.0,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture or confirmed molecularly",Lungs TB
+A15.1,"Tuberculosis of lung, confirmed by culture only",Lungs TB
+A15.2,"Tuberculosis of lung, confirmed histologically",Lungs TB
+A15.3,"Tuberculosis of lung, confirmed by unspecified means",Lungs TB
+A15.4,"Tuberculosis of intrathoracic lymph nodes, bacteriologically, molecularly or histologically confirmed",Respiratory TB
+A15.5,"Tuberculosis of larynx, trachea and bronchia, confirmed bacteriologically, molecularly or histologically",Respiratory TB
+A15.6,"Tuberculous pleurisy, confirmed bacteriologically, molecularly or histologically",Respiratory TB
+A15.7,"Primary respiratory tuberculosis, confirmed bacteriologically, molecularly or histologically",Respiratory TB
+A15.8,"ther respiratory tuberculosis, confirmed bacteriologically, molecularly or histologically",Respiratory TB
+A15.9,Respiratory tuberculosis unspecified,Respiratory TB
+A16.0,"Tuberculosis of lung, not confirmed bacteriologically, molecularly or histologically",Lungs TB
+A16.1,"Tuberculosis of lung, bacteriological, molecular and histological examination not done",Lungs TB
+A16.2,"Tuberculosis of lung, without mention of bacteriological, molecular or histological confirmation",Lungs TB
+A16.3,"Tuberculosis of intrathoracic lymph nodes, without mention of bacteriological, molecular or histological confirmation",Respiratory TB
+A16.4,"Tuberculosis of larynx, trachea and bronchia, without mention of bacteriological, molecular or histological confirmation",Respiratory TB
+A16.5,"Tuberculous pleurisy, without mention of bacteriological, molecular or histological confirmation",Respiratory TB
+A16.7,"Primary respiratory tuberculosis without mention of bacteriological, molecular or histological confirmation",Respiratory TB
+A16.8,"Other respiratory tuberculosis, without mention of bacteriological, molecular or histological confirmation",Respiratory TB
+A16.9,"Respiratory tuberculosis unspecified, without mention of bacteriological, molecular or histological confirmation",Respiratory TB
+A17.0,Tuberculous meningitis,TB of nervous system
+A17.1,Meningeal tuberculoma,TB of nervous system
+A17.8,Other tuberculosis of nervous system,TB of nervous system
+A17.9,"Tuberculosis of nervous system, unspecified",TB of nervous system
+A18.0,Tuberculosis of bones and joints,TB of other organs
+A18.1,Tuberculosis of genitourinary system,TB of other organs
+A18.2,Tuberculous peripheral lymphadenopathy,TB of other organs
+A18.3,"Tuberculosis of intestines, peritoneum and mesenteric glands",TB of other organs
+A18.4,Tuberculosis of skin and subcutaneous tissue,TB of other organs
+A18.5,Tuberculosis of eye,TB of other organs
+A18.6,Tuberculosis of (inner) (middle) ear,TB of other organs
+A18.7,Tuberculosis of adrenal glands,TB of other organs
+A18.8,Tuberculosis of other specified organs,TB of other organs
+A19.0,Acute miliary tuberculosis of a single specified site,Miliary TB
+A19.1,Acute miliary tuberculosis of multiple sites,Miliary TB
+A19.2,"Acute miliary tuberculosis, unspecified",Miliary TB
+A19.8,Other miliary tuberculosis,Miliary TB
+A19.9,"Miliary tuberculosis, unspecified",Miliary TB
