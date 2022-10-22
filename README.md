@@ -18,6 +18,7 @@ Employees.xlsx - employees of the territorial public health center who conduct c
 
 Diagnoses.xlsx - tuberculosis ICD-10 codes
 
+
 The cases and emplyees presented in the database are created randomly and do not correspond to real ones.
 
 The source of data on the population by municipality, age and gender is the Department of Statistics of the Republic of Lithuania. Online access https://osp.stat.gov.lt/temines-lenteles7 
