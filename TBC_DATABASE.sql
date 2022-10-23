@@ -1,7 +1,7 @@
--- creating a database for epidemiological surveillance of tuberculosis
+-- Creating a database for epidemiological surveillance of tuberculosis
 CREATE DATABASE TBC_surveillance;
 USE TBC_surveillance;
--- creating tables
+-- Creating tables
 CREATE TABLE Employees (
     Employee_ID INT NOT NULL,
     First_Last_Name VARCHAR(50),
@@ -102,7 +102,7 @@ CREATE TABLE Cases2020 (
     PRIMARY KEY (Report_number)
 );
 
--- filling tables with data from csv files via Table Data Import Wizard
+-- Filling tables with data from csv files via Table Data Import Wizard
 
 SET SQL_SAFE_UPDATES = 0;
 
@@ -116,7 +116,7 @@ Value ('Angelica Smith');
 
 -- Errors are corrected before the connection between tables is specified
 -- Cases tables and Population by sex
-SELECT
+SELECT 
     Sex_id
 FROM
     Population_sex;
@@ -167,9 +167,11 @@ ALTER TABLE Cases2020
 -- Errors are then checked using the same principle (not shown).
 -- Cases tables and population by municipality
 
-UPDATE Population_municipality
-SET Municipality='Vilniaus m.'
-WHERE Municipality='Vilniaus m..';
+UPDATE Population_municipality 
+SET 
+    Municipality = 'Vilniaus m.'
+WHERE
+    Municipality = 'Vilniaus m..';
 
 
 ALTER TABLE Cases2019
@@ -245,18 +247,19 @@ ALTER TABLE Cases2020
 ALTER TABLE Cases2019
 ADD COLUMN Age_gr_id INT;
 
-UPDATE Cases2019
-	SET Age_gr_id = CASE
-		WHEN Age <= 17 THEN 1
-		WHEN Age BETWEEN 18 AND 24 THEN 2
-		WHEN Age BETWEEN 25 AND 34 THEN 3
-		WHEN Age BETWEEN 35 AND 44 THEN 4
-		WHEN Age BETWEEN 45 AND 54 THEN 5
-		WHEN Age BETWEEN 55 AND 64 THEN 6
-		WHEN Age BETWEEN 65 AND 74 THEN 7
-		WHEN Age BETWEEN 75 AND 84 THEN 8
-		WHEN Age >= 85 THEN 9
-END;
+UPDATE Cases2019 
+SET 
+    Age_gr_id = CASE
+        WHEN Age <= 17 THEN 1
+        WHEN Age BETWEEN 18 AND 24 THEN 2
+        WHEN Age BETWEEN 25 AND 34 THEN 3
+        WHEN Age BETWEEN 35 AND 44 THEN 4
+        WHEN Age BETWEEN 45 AND 54 THEN 5
+        WHEN Age BETWEEN 55 AND 64 THEN 6
+        WHEN Age BETWEEN 65 AND 74 THEN 7
+        WHEN Age BETWEEN 75 AND 84 THEN 8
+        WHEN Age >= 85 THEN 9
+    END;
 
 ALTER TABLE Cases2019
    ADD CONSTRAINT FK_Cases2019_Age FOREIGN KEY (Age_gr_id)
@@ -286,7 +289,7 @@ ALTER TABLE Cases2020
       REFERENCES  Population_age (Age_gr_id)
       ON DELETE CASCADE
       ON UPDATE CASCADE;
--- Separation of cases into urban and rural
+-- Classification of cases into urban and rural
 
 CREATE TABLE Cities (
     City VARCHAR(50) NOT NULL,
@@ -344,7 +347,7 @@ SET
         ELSE 'Rural'
     END;
 
--- creating a table and adding data on the population in urban and rural areas
+-- Creating a table and adding data on the population in urban and rural areas
 CREATE TABLE Population_Resrd_type (
     Res_Type VARCHAR(50) NOT NULL,
     y_2012 INT,
@@ -365,7 +368,7 @@ VALUES
 ("Urban", 629869,	632383,	633652,	635732,	635174,	635086,	635886,	639871,	648916,	656121),
 ("Rural", 176046,	173925,	172454,	171791,	170206,	170087,	169481,	170667,	171595,	173862);
 
--- finding and correcting logical errors in Cases column "Social group"
+-- Finding and correcting logical errors in Cases column "Social group"
 SELECT 
     Age, Social_group
 FROM
@@ -386,7 +389,7 @@ FROM
 WHERE
     Social_group = 'Student' AND Age > 25;
 
--- causes of death are unified
+-- Causes of death are unified
 SELECT DISTINCT
     Cause_of_death
 FROM
@@ -428,7 +431,7 @@ SET
 WHERE
     Cause_of_death = 'cancer';
 
--- converting empty cells to null
+-- Converting empty cells to null
 UPDATE Cases2019 
 SET 
     Disease_outcome = NULL
@@ -453,7 +456,7 @@ SET
 WHERE
     Cause_of_death NOT IN ('NOT TBC' , 'needs clarification', 'TBC');
     
--- connecting 2019 and 2020 cases tables
+-- Connecting 2019 and 2020 cases tables
 CREATE TEMPORARY TABLE Cases2019_2020 (
 SELECT 
     Report_number,
@@ -496,7 +499,7 @@ ALTER TABLE Cases2019_2020
       ON DELETE CASCADE
       ON UPDATE CASCADE;
       
--- creating a table with cases grouped by year of diagnosis, month of diagnosis, TBC type, age group, sex, municipality
+-- Creating a table with cases grouped by year of diagnosis, month of diagnosis, TBC type, age group, sex, municipality
 CREATE TEMPORARY TABLE Cases19_20_DIAGNTYPE (
 SELECT Cases2019_2020.Report_number, Cases2019_2020.Age_gr_id, Cases2019_2020.Sex, Cases2019_2020.Municipality, 
 Diagnoses.Category, Cases2019_2020.Year_diagnosis, Cases2019_2020.Month_diagnosis
@@ -510,7 +513,7 @@ FROM Cases19_20_DIAGNTYPE
 GROUP BY Age_gr_id, Sex, Municipality, TBC_type, Year_diagnosis, Month_diagnosis
 ORDER BY Year_diagnosis, Month_diagnosis;
 
--- incidence rate by municipality and month in 2019
+-- Incidence rate by municipality and month in 2019
 CREATE TEMPORARY TABLE Cases_municipal (SELECT SUM(Number_of_cases) AS Number_of_cases, Municipality, 
 Month_diagnosis FROM Cases2019_2020_GROUPED WHERE Year_diagnosis = 2019 GROUP BY Municipality, Month_diagnosis);
 
@@ -524,6 +527,7 @@ LEFT JOIN Pop_municip_19 ON Cases_municipal.Municipality=Pop_municip_19.Municipa
 ALTER TABLE Incidence_by_municip_2019
 ADD Incidence DEC(10, 2);
 
-UPDATE Incidence_by_municip_2019
-SET Incidence = ((Number_of_cases / Population) * 100000);
+UPDATE Incidence_by_municip_2019 
+SET 
+    Incidence = ((Number_of_cases / Population) * 100000);
 
